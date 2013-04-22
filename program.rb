@@ -1,2 +1,2 @@
-puts "Ahoj"
+puts "Hello"
 puts "Dovi"
